@@ -53,7 +53,7 @@ Software Engineer &amp; Front-End Developer crafting sleek, responsive, and user
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="[www.linkedin.com/in/rebekah-tañag-924925208](https://www.linkedin.com/in/rebekah-ta%C3%B1ag-924925208/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/rebekah-ta%C3%B1ag-924925208/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/rbkh.dhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="http://rebekah-tanag.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:rebekahdhey02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
